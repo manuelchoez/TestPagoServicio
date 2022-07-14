@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PagoServicio.Application/1.0.0": {
+        "dependencies": {
+          "PagoServicio.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "PagoServicio.Application.dll": {}
+        }
+      },
+      "PagoServicio.Dominio/1.0.0": {
+        "runtime": {
+          "PagoServicio.Dominio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PagoServicio.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PagoServicio.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

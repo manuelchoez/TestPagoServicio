@@ -1,0 +1,15 @@
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\bin\Debug\net5.0\PagoServicio.Application.deps.json
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\bin\Debug\net5.0\PagoServicio.Application.dll
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\bin\Debug\net5.0\PagoServicio.Application.pdb
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\bin\Debug\net5.0\PagoServicio.Dominio.dll
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\bin\Debug\net5.0\PagoServicio.Dominio.pdb
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\obj\Debug\net5.0\PagoServicio.Application.csproj.AssemblyReference.cache
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\obj\Debug\net5.0\PagoServicio.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\obj\Debug\net5.0\PagoServicio.Application.AssemblyInfoInputs.cache
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\obj\Debug\net5.0\PagoServicio.Application.AssemblyInfo.cs
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\obj\Debug\net5.0\PagoServicio.Application.csproj.CoreCompileInputs.cache
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\obj\Debug\net5.0\PagoServicio.Application.csproj.CopyComplete
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\obj\Debug\net5.0\PagoServicio.Application.dll
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\obj\Debug\net5.0\refint\PagoServicio.Application.dll
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\obj\Debug\net5.0\PagoServicio.Application.pdb
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Application\obj\Debug\net5.0\ref\PagoServicio.Application.dll

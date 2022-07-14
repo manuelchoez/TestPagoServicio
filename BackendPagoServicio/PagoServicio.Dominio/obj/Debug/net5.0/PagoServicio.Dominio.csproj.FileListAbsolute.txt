@@ -1,0 +1,12 @@
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Dominio\bin\Debug\net5.0\PagoServicio.Dominio.deps.json
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Dominio\bin\Debug\net5.0\PagoServicio.Dominio.dll
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Dominio\bin\Debug\net5.0\PagoServicio.Dominio.pdb
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Dominio\obj\Debug\net5.0\PagoServicio.Dominio.csproj.AssemblyReference.cache
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Dominio\obj\Debug\net5.0\PagoServicio.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Dominio\obj\Debug\net5.0\PagoServicio.Dominio.AssemblyInfoInputs.cache
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Dominio\obj\Debug\net5.0\PagoServicio.Dominio.AssemblyInfo.cs
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Dominio\obj\Debug\net5.0\PagoServicio.Dominio.csproj.CoreCompileInputs.cache
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Dominio\obj\Debug\net5.0\PagoServicio.Dominio.dll
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Dominio\obj\Debug\net5.0\refint\PagoServicio.Dominio.dll
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Dominio\obj\Debug\net5.0\PagoServicio.Dominio.pdb
+E:\Proyectos Manuel Choez\TestPagoServicio\BackendPagoServicio\PagoServicio.Dominio\obj\Debug\net5.0\ref\PagoServicio.Dominio.dll
