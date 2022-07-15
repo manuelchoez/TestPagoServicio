@@ -19,8 +19,6 @@
 # No se sube los archivos de extension *.yml
 *.yml
 
-
-
 # No se sube los archivos de extension *.nupkg
 *.nupkg
 
@@ -29,3 +27,6 @@
 
 # No se sube los archivos de extension *.exe
 *.exe
+
+# No se sube la carpeta bin y su contenido
+*/node_modules/*
